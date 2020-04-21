@@ -1,5 +1,9 @@
-<<<<<<< HEAD
-some changes
-=======
-test some changes
->>>>>>> 4e8035ecda30337df7e46ab69736f96c8c6274a4
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title of the document</title>
+</head>
+<body>
+The content of the document......
+</body>
+</html>
